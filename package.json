@@ -1,0 +1,8 @@
+{
+  "dependencies": {
+    "express": "^4.17.3",
+    "http": "^0.0.1-security",
+    "websocket": "^1.0.34",
+    "ws": "^8.5.0"
+  }
+}

@@ -1,0 +1,24 @@
+html, body {
+    margin: 0;
+    height: 100%;
+    background-color: black;
+}
+
+#overview-radar, #overview-radar * {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+#overview-radar {
+    min-height: 100vh;
+}
+
+#overview-radar * {
+    width: 100vmin;
+    height: 100vmin;
+}
+
+#overview-radar #renderer {
+    position: absolute;
+}
